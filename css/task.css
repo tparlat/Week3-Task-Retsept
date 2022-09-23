@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Caveat&family=Fleur+De+Leah&family=Josefin+Sans&display=swap');
+
+body {
+    background-color: rgb(136, 166, 224);
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 35%;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+
+.ingredients-table {
+    border: 3px solid black;
+    margin-left: 15rem;
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.instructions ol {
+    border: 2px solid red;
+    margin: 0 auto;
+    width: 65%;
+    color: yellow;
+    font-family: 'Josefin Sans', sans-serif;
+}
+img {
+    width: 500px;
+}
